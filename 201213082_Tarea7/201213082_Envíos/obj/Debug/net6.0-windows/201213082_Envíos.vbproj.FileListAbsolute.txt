@@ -1,0 +1,17 @@
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\bin\Debug\net6.0-windows\201213082_Envíos.exe
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\bin\Debug\net6.0-windows\201213082_Envíos.deps.json
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\bin\Debug\net6.0-windows\201213082_Envíos.runtimeconfig.json
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\bin\Debug\net6.0-windows\201213082_Envíos.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\bin\Debug\net6.0-windows\ref\201213082_Envíos.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\bin\Debug\net6.0-windows\201213082_Envíos.pdb
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\obj\Debug\net6.0-windows\201213082_Envíos.vbproj.AssemblyReference.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\obj\Debug\net6.0-windows\_201213082_Envíos.Form1.resources
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\obj\Debug\net6.0-windows\201213082_Envíos.vbproj.GenerateResource.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\obj\Debug\net6.0-windows\201213082_Envíos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\obj\Debug\net6.0-windows\201213082_Envíos.AssemblyInfoInputs.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\obj\Debug\net6.0-windows\201213082_Envíos.AssemblyInfo.vb
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\obj\Debug\net6.0-windows\201213082_Envíos.vbproj.CoreCompileInputs.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\obj\Debug\net6.0-windows\201213082_Envíos.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\obj\Debug\net6.0-windows\ref\201213082_Envíos.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\obj\Debug\net6.0-windows\201213082_Envíos.pdb
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_Tarea7\201213082_Envíos\obj\Debug\net6.0-windows\201213082_Envíos.genruntimeconfig.cache
